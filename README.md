@@ -1,8 +1,8 @@
 # local-test-result
 0. friends/uuid GET works returns  
-	\t{
+	{
 	  "detail": "Authentication credentials were not provided."
-	\t}
+	}
 	if no authentication is provided works on master
 
 1. friends/uuid POST works on master
